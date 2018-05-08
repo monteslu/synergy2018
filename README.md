@@ -35,6 +35,8 @@
 * digital Characteristic `2a56`
 * analog Characteristic `2a58`
 
+[firmware](lolin32_synergy)
+[service details](https://github.com/monteslu/ble-io/blob/master/service.md)
 
 ## Bot Assembly
 
