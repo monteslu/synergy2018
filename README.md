@@ -4,6 +4,17 @@
 
 ![HeatSync Labs](HeatsyncLabs_logo.png)
 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kKnn44NetFQ/0.jpg)](https://www.youtube.com/watch?v=kKnn44NetFQ)
+
+
+## Chirpers
+
+[https://chirpers.com/browser](https://chirpers.com/browser)
+
+![chirpers](chirpers.jpg)
+
+
 ## Our bots for today
 
 ![bot](bot.jpg)
@@ -29,10 +40,10 @@
 
 * connect wheels
 * connect fin
-* connect battery pack
 * connect breadboad bracket
 * wiring
-* customize
+* customize your bot!
+* connect battery pack
 
 
 ## Wiring
@@ -50,8 +61,6 @@
 [https://chirpers.com/browser](https://chirpers.com/browser)
 
 Import -> Examples -> syngery esp32 bot
-
-![chirpers](chirpers.jpg)
 
 or copy and paste:
 
