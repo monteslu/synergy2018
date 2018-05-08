@@ -1,8 +1,10 @@
 # Citrix Synergy  - Simply Serve
 
+## Luis Montes and Moheeb Zara
 
+![HeatSync Labs](HeatsyncLabs_logo.png)
 
-## Our bots
+## Our bots for today
 
 ![bot](bot.jpg)
 
@@ -17,6 +19,10 @@
 ## Web Bluetooth
 
 ![screenshot](BLE_diagram.png)
+
+* service Id: `bada5555-e91f-1337-a49b-8675309fb099`
+* digital Characteristic `2a56`
+* analog Characteristic `2a58`
 
 
 ## Bot Assembly
@@ -42,16 +48,6 @@
 ## Connecting to the bot
 
 [https://chirpers.com/browser](https://chirpers.com/browser)
-
-
-* service Id: `bada5555-e91f-1337-a49b-8675309fb099`
-
-* digital Characteristic `2a56`
-
-* analog Characteristic `2a58`
-
-
-
 
 Import -> Examples -> syngery esp32 bot
 
