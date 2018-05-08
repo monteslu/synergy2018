@@ -55,6 +55,8 @@
 
 Import -> Examples -> syngery esp32 bot
 
+![chirpers](chirpers.jpg)
+
 or copy and paste:
 
 ```javascript
